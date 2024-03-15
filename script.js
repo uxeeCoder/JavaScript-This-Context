@@ -1,5 +1,5 @@
 "use strict";
-console.log("Say Hello World as Test");
+// console.log("Say Hello World as Test");
 
 const button1 = document.getElementById("button1");
 const button2 = document.getElementById("button2");
